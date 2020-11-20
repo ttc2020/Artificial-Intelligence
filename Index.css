@@ -1,0 +1,28 @@
+body{
+	background-image: linear-gradient(to right,#E8CBC0, #636FA4 );
+}
+
+img{
+	margin: auto;
+	display: block;
+	border: 8px outset #7bedda;
+}
+.head{
+	text-align: center;
+	border: 2px solid black;
+	background-image: linear-gradient(to right, #0cebeb,#38ef7d);
+	opacity: 0.9;
+	padding: 20px;
+	position: sticky;
+	top: 0;
+}
+p{
+	font-size: 24px;
+}
+hr{
+	border:1px solid black;
+}
+li{
+	font-size: 22px;
+}
+

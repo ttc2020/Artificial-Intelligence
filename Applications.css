@@ -1,0 +1,40 @@
+body{
+	background-image: url(AppBG.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.head{
+	text-align: center;
+	border: 2px solid black;
+	background-image: linear-gradient(to right, #0cebeb,#38ef7d);
+	opacity: 0.9;
+	padding: 20px;
+	position: sticky;
+	top: 0;
+}
+
+p{
+	font-size: 24px;
+	font-family: sans-serif;
+}
+p:hover{
+	cursor: pointer;
+}
+img{
+	margin: auto;
+	display: block;
+	border: 5px outset hotpink;
+}
+hr{
+	border: 1px solid black;
+}
+iframe{
+	margin: auto;
+	display: block;
+	border: 8px outset #7adb42;
+}
+li{
+	font-size: 24px;
+	font-family: sans-serif;
+}

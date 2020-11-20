@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: wheat;
+    font-family: 'Montserrat', sans-serif;
+}
+#header{
+    border: 3px;
+    background-image: linear-gradient(bottom-right,cyan,lime);
+    position: sticky;
+    top: 0;
+    background-image: linear-gradient(cyan,lime);
+    font-size: x-large;
+    color: gray;
+}
+img{
+    margin-left: 180px;
+}
+li{
+    text-align: left;
+    color: teal;
+    font-size: 32px; ;
+}
+h3{
+    font-size: x-large;
+    color: gray;
+}
